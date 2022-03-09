@@ -11,7 +11,7 @@ public class KonfliktusKezeles {
      String nev1="Alex";
      String nev2="Ricsi";
       int nev3;
-
+      String nev4;
     }
     
 }
